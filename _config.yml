@@ -1,0 +1,11 @@
+title: The research Post
+logo: /assets/img/logo.png
+description: A blogging plateform about research
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
+author: pgmpost
+
+
+plugins:
+ - jekyll-feed

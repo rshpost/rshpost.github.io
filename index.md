@@ -7,6 +7,7 @@ title: The Research Post
 
 > A blog about research !
 > -- [RSS feed](https://rshpost.github.io/feed.xml)
+> -- [About](https://rshpost.github.io/about)
 
 <hr>
 

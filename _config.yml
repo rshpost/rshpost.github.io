@@ -4,7 +4,7 @@ description: A blogging plateform about research
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
-author: pgmpost
+author: rshpost
 
 
 plugins:
